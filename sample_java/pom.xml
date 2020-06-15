@@ -5,6 +5,10 @@
   <artifactId>addition</artifactId>
   <version>1.0</version>
   <name>calculator_addition</name>
+  <properties>
+	  <maven.compiler.source>1.6</maven.compiler.source>
+	  <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
    <build>
        <plugins>
 	 <plugin>
